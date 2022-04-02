@@ -145,44 +145,34 @@
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(1).pdf" style="text-decoration:none;">CoqIOA: A Formalization of IO Automata in the
-Coq Proof Assistant</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(1).pdf" style="text-decoration:none;">The theory of a general quantum system interacting with a linear dissipative system</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(2).pdf" style="text-decoration:none;">An Offline Foundation for
-Online Accountable Pseudonyms</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(2).pdf" style="text-decoration:none;">There's plenty of room at the bottom</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(3).pdf" style="text-decoration:none;">A Programming Language
-Based on Classical Logic</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(4).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(5).pdf" style="text-decoration:none;">Mobile Computing with the Rover Toolkit</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(6).pdf" style="text-decoration:none;">Improving Network Connection Locality on Multicore Systems</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(7).pdf" style="text-decoration:none;">Asynchronous intrusion recovery
-for interconnected web services</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(3).pdf" style="text-decoration:none;">Radiative corrections to Compton scattering</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(4).pdf" style="text-decoration:none;">Cargo cult science</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(5).pdf" style="text-decoration:none;">Theory of inelastic scattering of cold neutrons from liquid helium</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(6).pdf" style="text-decoration:none;">The dignified professor</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(7).pdf" style="text-decoration:none;">An Historic Moment in Physics</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(8).pdf" style="text-decoration:none;"> Performance Optimization of the VDFS Verified
-File System </a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(9).pdf" style="text-decoration:none;">Algorand: Scaling Byzantine Agreements
-for Cryptocurrencies</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(8).pdf" style="text-decoration:none;"> What is Science? </a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(9).pdf" style="text-decoration:none;">Quantum-mechanical computers</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(10).pdf" style="text-decoration:none;">Alpaca: Extensible Authorization for Distributed Services </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(11).pdf" style="text-decoration:none;">A Concurrency-Optimal Binary Search Tree</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(12).pdf" style="text-decoration:none;">Alpenhorn: Bootstrapping Secure Communication without Leaking Metadata</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(13).pdf" style="text-decoration:none;">Amber: Decoupling User Data from Web Applications</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(10).pdf" style="text-decoration:none;">The Computing Machines in the Future</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(11).pdf" style="text-decoration:none;">Quantum theory of gravitation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(12).pdf" style="text-decoration:none;">The development of the space-time view of quantum electrodynamics</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(13).pdf" style="text-decoration:none;">Geometrical representation of the Schrödinger equation for solving maser problems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(14).pdf" style="text-decoration:none;">Quboid: A Workstation for Safer Web Interaction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(14).pdf" style="text-decoration:none;">Forces in molecules</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(15).pdf" style="text-decoration:none;">Argosy: Verifying Layered Storage Systems with
-Recovery Refinement</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(15).pdf" style="text-decoration:none;">A relativistic cut-off for classical electrodynamics</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(16).pdf" style="text-decoration:none;">LRC: Dependency-Aware Cache Management
-for Data Analytics Clusters</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(16).pdf" style="text-decoration:none;">Relativistic cut-off for quantum electrodynamics</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(17).pdf" style="text-decoration:none;">Make Least Privilege a Right (Not a Privilege)</a></li>   
+  <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(17).pdf" style="text-decoration:none;">The theory of positrons</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(18).pdf" style="text-decoration:none;">Labels and Event Processes
-in the Asbestos Operating System</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(18).pdf" style="text-decoration:none;">Mathematical formulation of the quantum theory of electromagnetic interaction</a></li> 
 
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Feynman-Lectures/blob/master/fy(19).pdf" style="text-decoration:none;">Privacy-Preserving Browser-Side Scripting With BFlow</a></li> 
